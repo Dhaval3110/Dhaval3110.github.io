@@ -3,5 +3,18 @@
         "apps": [
             "HTND789ZRA.com.app.Coop"
         ]
+    },
+    "applinks": {
+        "apps": [
+           "HTND789ZRA.com.app.Coop"
+        ],
+        "details": [
+            {
+                "appID": "HTND789ZRA.com.app.Coop",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
     }
 }
