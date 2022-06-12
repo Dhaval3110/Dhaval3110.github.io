@@ -1,0 +1,20 @@
+{
+    "webcredentials": {
+        "apps": [
+            "UV8A5984YB.com.calgarycoop.newapptest"
+        ]
+    },
+    "applinks": {
+        "apps": [
+           "UV8A5984YB.com.calgarycoop.newapptest"
+        ],
+        "details": [
+            {
+                "appID": "UV8A5984YB.com.calgarycoop.newapptest",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
