@@ -1,16 +1,16 @@
 {
     "webcredentials": {
         "apps": [
-            "HTND789ZRA.com.app.Coop"
+            "UV8A5984YB.com.calgarycoop.newapptest"
         ]
     },
     "applinks": {
         "apps": [
-           "HTND789ZRA.com.app.Coop"
+            "UV8A5984YB.com.calgarycoop.newapptest"
         ],
         "details": [
             {
-                "appID": "HTND789ZRA.com.app.Coop",
+                "appID": "UV8A5984YB.com.calgarycoop.newapptest",
                 "paths": [
                     "*"
                 ]
